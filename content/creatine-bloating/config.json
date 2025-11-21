@@ -1,0 +1,21 @@
+{
+  "slug": "creatine-bloating",
+  "primaryKeyword": "creatine bloating",
+  "secondaryKeywords": ["creatine water retention", "creatine digestion", "creatine weight gain"],
+  "country": "US",
+  "demographics": {
+    "ageRange": "35+",
+    "gender": "male",
+    "householdIncome": "40k-100k"
+  },
+  "product": {
+    "name": "Recommended creatine supplement",
+    "mainUrl": "https://example.com/ultraclean-creatine"
+  },
+  "brand": {
+    "name": "ExampleSupps",
+    "mainSite": "https://example.com"
+  },
+  "toneOfVoice": "trustworthy, friendly, evidence-based"
+}
+

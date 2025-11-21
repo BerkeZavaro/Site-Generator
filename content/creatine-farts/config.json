@@ -1,0 +1,25 @@
+{
+  "slug": "creatine-farts",
+  "primaryKeyword": "creatine farts",
+  "secondaryKeywords": [
+    "creatine gas",
+    "creatine bloating",
+    "creatine digestion"
+  ],
+  "country": "US",
+  "demographics": {
+    "ageRange": "25-40",
+    "gender": "all",
+    "householdIncome": "40k-100k"
+  },
+  "product": {
+    "name": "UltraClean Creatine",
+    "mainUrl": "https://example.com/ultraclean-creatine"
+  },
+  "brand": {
+    "name": "ExampleSupps",
+    "mainSite": "https://example.com"
+  },
+  "toneOfVoice": "trustworthy, friendly, evidence-based"
+}
+
